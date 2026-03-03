@@ -20,3 +20,7 @@ Automated tool to detect 404 errors on websites and capture screenshots as evide
 - Python 3.x
 - Selenium 4.x
 - Chrome WebDriver
+
+## Contact
+- Upwork: https://upwork.com/freelancers/~01a89098eaefc3fe0b
+- LinkedIn: https://www.linkedin.com/in/yoshitsugu-baba-68b8a0375
