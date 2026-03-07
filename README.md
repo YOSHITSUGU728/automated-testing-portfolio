@@ -10,6 +10,9 @@ Automated regression test covering user registration, logout, login, and logout 
 ### 2. 404 Error Detection & Screenshot Tool
 Automated tool to detect 404 errors on websites and capture screenshots as evidence.
 
+### 3. Form Validation Test — Login Page (35 Test Cases)
+Automated form validation test suite covering 35 input patterns on a login page, including full-width/Japanese characters, boundary values, SQL injection, and XSS attempts. Screenshots are automatically captured on failure. Results exported to CSV and JSON.
+
 ## Technologies
 - Python
 - Selenium
