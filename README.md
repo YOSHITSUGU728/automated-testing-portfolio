@@ -13,6 +13,11 @@ Automated tool to detect 404 errors on websites and capture screenshots as evide
 ### 3. Form Validation Test — Login Page (35 Test Cases)
 Automated form validation test suite covering 35 input patterns on a login page, including full-width/Japanese characters, boundary values, SQL injection, and XSS attempts. Screenshots are automatically captured on failure. Results exported to CSV and JSON.
 
+### 4. E-Commerce Checkout Flow Automation Test (SauceDemo)
+Automated end-to-end test suite covering a full e-commerce purchasing flow including login validation, product listing, add to cart, checkout, order summary & price calculation, order completion, and logout.
+10 test cases with both positive and negative scenarios. Screenshots automatically captured at each step. 100% pass rate achieved.
+
+   
 ## Technologies
 - Python
 - Selenium
