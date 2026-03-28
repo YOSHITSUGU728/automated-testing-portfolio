@@ -1480,13 +1480,13 @@ if __name__ == "__main__":
         "birth_year": "1990",
         "birth_month": "1",
         "birth_day": "1",
-        "email": "test822211@example.com"
+        "email": "test12345@example.com"  # ✅ 変更済み
     }
     
     # Execute registration -> logout -> login flow
     bot = YodobashiAutoSignup(headless=False)
     try:
-        result = bot.signup_complete(user_data, password="hjerty12")
+        result = bot.signup_complete(user_data, password="test12345")  # ✅ 変更済み
         
         print(f"\n{'='*70}")
         print(f"Result: {result['message']}")
